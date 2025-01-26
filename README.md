@@ -1,2 +1,3 @@
 # learn_python
 python学习笔记,包含基本的语法与pandas,numpy,matplotlib库的基本使用
+三个库函数更详细的使用方法可以参见相应文档中的官网链接
